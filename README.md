@@ -1,7 +1,8 @@
 # java-LinkGame
-java写的连连看小游戏，包含详细功能说明的设计报告
-觉得有用就点一个star星星吧~~
-使用eclipse打开即可运行
+
+> java写的连连看小游戏，包含详细功能说明的设计报告
+> 使用eclipse打开即可运行
+> 觉得有用就点一个star星星吧~~
 游戏主要界面:
 ![1](https://github.com/z5z56/java-LinkGame/blob/main/img/1.png)
 ![1](https://github.com/z5z56/java-LinkGame/blob/main/img/2.png)
